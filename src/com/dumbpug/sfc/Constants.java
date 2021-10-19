@@ -1,4 +1,4 @@
-package com.dumbpug;
+package com.dumbpug.sfc;
 
 public class Constants {
     public static final int DISPLAY_HEIGHT = 256;
